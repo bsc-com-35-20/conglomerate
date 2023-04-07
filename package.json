@@ -1,0 +1,25 @@
+{
+  "name": "conglomerate-api",
+  "version": "1.0.0",
+  "description": "An API for a conglomerate web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REAT",
+    "RESTfull",
+    "API",
+    "Node",
+    "MySQL",
+    "ORM"
+  ],
+  "author": "bsc-com-35-20",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
+  }
+}
