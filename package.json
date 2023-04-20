@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "REAT",
+    "REST",
     "RESTfull",
     "API",
     "Node",
@@ -21,6 +21,7 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mysql": "^2.18.1",
+    "mysql2": "^3.2.0",
     "nodemon": "^2.0.22"
   }
 }
